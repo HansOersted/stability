@@ -1,0 +1,28 @@
+Copyright (c) 2025 Zhe Shen
+
+All rights reserved.
+
+This repository contains a preliminary research implementation 
+("demo version") which may be incomplete or contain errors. 
+It is provided solely for academic and research reference.
+
+Permission is granted to use, copy, and modify this software 
+for non-commercial research and educational purposes, 
+provided that proper credit is given to the author:
+
+    Zhe Shen (2025). Stability Proof from Data — Demo Repository.
+
+Redistribution, modification, or commercial use of this software 
+for profit, products, or services is strictly prohibited without 
+prior written permission from the author.
+
+For inquiries regarding commercial licensing or access to 
+verified, production-grade implementations, please contact:
+
+    Zhe Shen  
+    Email: zheshen@ieee.org
+
+Disclaimer:
+This software is provided "as is", without warranty of any kind. 
+The author makes no guarantees of correctness, fitness for a 
+particular purpose, or absence of errors.
